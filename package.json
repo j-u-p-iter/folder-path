@@ -2,7 +2,7 @@
   "name": "@j.u.p.iter/folder-path",
   "version": "0.0.0-semantically-released",
   "description": "Resolves path to an absolute path to a folder of a package",
-  "main": "dist/lib",
+  "main": "dist/lib/index.js",
   "typings": "dist/types",
   "repository": "git@github.com:j-u-p-iter/folder-path.git",
   "author": "Leontyev Kirill (j.u.p.iter) <pn79122821224@gmail.com> (http://j-u-p-iter.ru/)",
