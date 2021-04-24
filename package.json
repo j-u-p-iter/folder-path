@@ -20,7 +20,6 @@
     "fs-extra": "^9.1.0"
   },
   "dependencies": {
-    "@j.u.p.iter/custom-error": "^1.5.1",
     "@j.u.p.iter/find-path-to-file": "^1.0.1"
   }
 }
